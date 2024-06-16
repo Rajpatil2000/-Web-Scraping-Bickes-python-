@@ -1,10 +1,10 @@
 # -Web-Scraping-Bickes-python-
 Web Scraping Bickes From Bikewala
-**1 Aim**
+                  **1 Aim**
 To gather comprehensive information on Bikes from Bikewala website 
 through web scraping, providing valuable insights into the specifications, 
 features, and pricing.
-**2.Objectives**
+                **2.Objectives**
 **1.Data Collection:**
 • Extract detailed information on bikes models available on bikewala 
 website including specification such as bikes Name, bike rating bike 
